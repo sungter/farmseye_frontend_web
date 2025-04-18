@@ -61,13 +61,23 @@ const UserMainTest = () => {
     h2s : 2
   }
 
+  const convertToLux = (adcValue) => {
+    // 밝을수록 ADC값이 커지는 경우를 보정
+    const maxADC = 1023;
+    const lux = ((adcValue / maxADC) * 100); // 0~100 lx 스케일 예시
+    return parseFloat(lux.toFixed(1));
+  }
+  
+
   useEffect(() => {
     const fetchEnvData = async () => {
       try {
         const res = await selectEnvList();
         const data = res.data[res.data.length - 1];
         const env = res.data.filter((item) => {
-          item.illumi = (10000 / (item.illumi + 1)).toFixed(1)
+          // item.illumi = (10000 / (item.illumi + 10)).toFixed(1)
+          item.illumi = convertToLux(item.illumi);
+
           const date = new Date(item.timestamp)
           return date.getHours() === 15;
         })
@@ -97,7 +107,8 @@ const UserMainTest = () => {
     // 5분마다 반복 실행
     const interval = setInterval(() => {
       fetchEnvData();
-    }, 5 * 60 * 1000); // 5분 = 300,000ms
+    }, 60 * 5 * 1000); // 5분 = 300,000ms
+    console.log(appropriateNowData);
 
     // 컴포넌트 언마운트 시 clear
     return () => clearInterval(interval);
