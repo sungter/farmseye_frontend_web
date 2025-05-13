@@ -1,6 +1,7 @@
 # 🎬 시연 GIF
-<img src="https://github.com/user-attachments/assets/cf7e8d90-df44-4808-b727-46dc0929e177" />
+<img src="https://github.com/user-attachments/assets/81e6a629-e68d-4c95-b4b5-98804c66271e" />
 
 # 최종 PT 일부
 test
+
 
