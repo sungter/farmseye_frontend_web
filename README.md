@@ -1,6 +1,6 @@
 # 🎬 시연 GIF
 
-| 시연 1 |
+| 전체 시연영상 |
 | --- |
 | <img src="https://github.com/user-attachments/assets/ff6cfa0c-f1cf-48dc-88e5-4a8c29e87717" width="800" /> |
 
