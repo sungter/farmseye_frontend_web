@@ -46,9 +46,9 @@
 
 | ****회원 관련 페이지**** | ****영상**** |
 | --- | --- |
-| **회원 가입** | <img src="https://github.com/user-attachments/assets/c7cea564-7223-40d2-a708-8fc103d402d8" /> |
-| **회원 정보 수정** | <img src="https://github.com/user-attachments/assets/77d704b9-9f03-4824-b92c-0478c52a72d4" /> |
-| **회원 탈퇴** | <img src="https://github.com/user-attachments/assets/4f47e6a7-ca0e-4f9b-a612-41326d19e0b6" /> |
+| **회원 가입** | <img src="https://github.com/user-attachments/assets/c7cea564-7223-40d2-a708-8fc103d402d8" width="600" /> |
+| **회원 정보 수정** | <img src="https://github.com/user-attachments/assets/77d704b9-9f03-4824-b92c-0478c52a72d4" width="600" /> |
+| **회원 탈퇴** | <img src="https://github.com/user-attachments/assets/4f47e6a7-ca0e-4f9b-a612-41326d19e0b6" width="600" /> |
 
 </br>
 </br>
