@@ -41,9 +41,10 @@
 
 | 회원 관련 페이지 |
 | --- |
-| <img src="https://github.com/user-attachments/assets/c21b352d-c2dc-4c34-8104-f3d077ee2c4d" /> |
-| <img src="https://github.com/user-attachments/assets/392146aa-cdc6-49a2-aa14-f5fe87983344" /> |
-| <img src="https://github.com/user-attachments/assets/bd908f96-4257-4ed1-bbf1-b62c48f660c5" /> |
+| <img src="https://github.com/user-attachments/assets/c7cea564-7223-40d2-a708-8fc103d402d8" /> |
+| <img src="https://github.com/user-attachments/assets/77d704b9-9f03-4824-b92c-0478c52a72d4" /> |
+| <img src="https://github.com/user-attachments/assets/4f47e6a7-ca0e-4f9b-a612-41326d19e0b6" /> |
+
 
 
 | 축사 내부 환경 / 날씨 API |
