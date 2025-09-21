@@ -1,7 +1,9 @@
 # 🎬 시연 GIF
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/a07ea1e3-65c7-49e4-8e7b-dfef789e823d" width="800"/><br/>
-  <img src="https://github.com/user-attachments/assets/81e6a629-e68d-4c95-b4b5-98804c66271e" width="800"/>
+  <img src="https://github.com/user-attachments/assets/a07ea1e3-65c7-49e4-8e7b-dfef789e823d" width="800"
+    style="border:2px solid #ccc; border-radius:10px; margin:10px 0;"/><br/>
+  <img src="https://github.com/user-attachments/assets/81e6a629-e68d-4c95-b4b5-98804c66271e" width="800"
+    style="border:2px solid #ccc; border-radius:10px; margin:10px 0;"/>
 </div>
 
 # Table
