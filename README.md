@@ -60,6 +60,19 @@
 </br>
 </br>
 
+| 개체 페이지 |
+| --- |
+| <img src="https://github.com/user-attachments/assets/eb48b8e8-2f03-4ab2-9f94-3575ad8e78c8" width="800" /> |
+
+</br>
+</br>
+
+| 관리자 페이지 |
+| --- |
+| <img src="https://github.com/user-attachments/assets/25dce1a9-b42e-42b2-8a06-991d1f4e935b" width="800" /> |
+
+</br>
+</br>
 
 ## Table
 <table>
