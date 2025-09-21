@@ -1,4 +1,35 @@
-# 🎬 시연 GIF
+# 🔆스마트 축사 PROJECT
+
+### 🎯프로젝트 개요
+
+| **항목** | **내용** |
+| --- | --- |
+| **프로젝트 명** | **FarmsEye (팜즈아이)** |
+| **프로젝트 소개** | 스마트축사 IoT 기기 연동 및 가축 생애 프로세스 모니터링 구현 |
+| **개발 인원** | 총 3명 |
+| **담당 역할** | Spring 및 Flask 서버 구축, 로그인 및 회원 관리 기능, 액츄에이터 제어 기능 구현 |
+| **개발 기간** | 총 57일 (2025.03.21 ~ 2025.05.16) |
+
+
+
+## 🖥️개발환경
+- IntelliJ
+- Postman
+- HeidiSQL
+- GitHub
+- VS Code
+
+
+## 🛠️SKILLS
+- JAVA
+- SPRING BOOT
+- Spring Security
+- MariaDB
+- React
+- JavaScript
+- Redux
+
+## 🎬 시연 GIF
 
 | 전체 시연영상 |
 | --- |
@@ -15,7 +46,7 @@
 
 
 
-# Table
+## Table
 <table>
   <tr>
   <td align="center" style="background:#f8fafc; border-radius:12px; box-shadow:0 2px 8px #e2e8f0;">
