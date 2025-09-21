@@ -2,16 +2,15 @@
 
 | 시연 1 |
 | --- |
+| <img src="https://github.com/user-attachments/assets/ff6cfa0c-f1cf-48dc-88e5-4a8c29e87717" width="800" /> |
+
+| 시연 1 |
+| --- |
 | <img src="https://github.com/user-attachments/assets/a07ea1e3-65c7-49e4-8e7b-dfef789e823d" width="800" /> |
 
 | 시연 2 |
 | --- |
 | <img src="https://github.com/user-attachments/assets/81e6a629-e68d-4c95-b4b5-98804c66271e" width="800" /> |
-
-| 시연 3 |
-| --- |
-| <img src="https://github.com/user-attachments/assets/ff6cfa0c-f1cf-48dc-88e5-4a8c29e87717" width="800" /> |
-
 
 
 
