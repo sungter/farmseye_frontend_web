@@ -34,6 +34,8 @@
 | 전체 시연영상 |
 | --- |
 | <img src="https://github.com/user-attachments/assets/ff6cfa0c-f1cf-48dc-88e5-4a8c29e87717" width="800" /> |
+</br>
+</br>
 
 | 메인 페이지 |
 | --- |
@@ -45,7 +47,8 @@
 | <img src="https://github.com/user-attachments/assets/77d704b9-9f03-4824-b92c-0478c52a72d4" /> |
 | <img src="https://github.com/user-attachments/assets/4f47e6a7-ca0e-4f9b-a612-41326d19e0b6" /> |
 
-
+</br>
+</br>
 
 | 축사 내부 환경 / 날씨 API |
 | --- |
