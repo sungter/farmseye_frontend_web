@@ -41,6 +41,9 @@
 | --- |
 | <img src="https://github.com/user-attachments/assets/a07ea1e3-65c7-49e4-8e7b-dfef789e823d" width="800" /> |
 
+</br>
+</br>
+
 | 회원 관련 페이지 |
 | --- |
 | <img src="https://github.com/user-attachments/assets/c7cea564-7223-40d2-a708-8fc103d402d8" /> |
@@ -54,7 +57,8 @@
 | --- |
 | <img src="https://github.com/user-attachments/assets/81e6a629-e68d-4c95-b4b5-98804c66271e" width="800" /> |
 
-
+</br>
+</br>
 
 
 ## Table
