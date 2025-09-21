@@ -4,7 +4,7 @@
 | --- |
 | <img src="https://github.com/user-attachments/assets/ff6cfa0c-f1cf-48dc-88e5-4a8c29e87717" width="800" /> |
 
-| 시연 1 |
+| 메인 페이지 |
 | --- |
 | <img src="https://github.com/user-attachments/assets/a07ea1e3-65c7-49e4-8e7b-dfef789e823d" width="800" /> |
 
