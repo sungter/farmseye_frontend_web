@@ -8,7 +8,7 @@
 | --- |
 | <img src="https://github.com/user-attachments/assets/a07ea1e3-65c7-49e4-8e7b-dfef789e823d" width="800" /> |
 
-| 시연 2 |
+| 축사 내부 환경 / 날씨 API |
 | --- |
 | <img src="https://github.com/user-attachments/assets/81e6a629-e68d-4c95-b4b5-98804c66271e" width="800" /> |
 
